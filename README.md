@@ -37,7 +37,7 @@ The **Workforce Overview** page provides a high-level view of the organization's
 * Performance Distribution by Department
 
 ### Dashboard Preview
-<img width="1541" height="867" alt="Compensation" src="https://github.com/user-attachments/assets/b801d8e1-db29-42e7-922c-14aa4f89a246" /
+<img width="1541" height="867" alt="Compensation" src="https://github.com/user-attachments/assets/b801d8e1-db29-42e7-922c-14aa4f89a246" />
 ---
 
 ## 📉 2. Attrition Analysis
